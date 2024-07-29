@@ -21,6 +21,7 @@ function beforeSubmit(event){
      }
      } 
      setInterval(timestamp, 500);
+     
      function recaptchaSuccess(){
         recaptcha=true;
      }
