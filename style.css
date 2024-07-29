@@ -36,3 +36,8 @@ form{
     min-width:300px;
     max-width:600px;
 }
+.g-recaptcha{
+    margin-top:20px;
+   display:flex;
+   justify-content: center;
+}
